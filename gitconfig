@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = m.j.cendoya92@gmail.com
+	name = Maria Cendoya
